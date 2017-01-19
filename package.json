@@ -1,0 +1,25 @@
+{
+  "name": "AmILate",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-am-i-late",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinoweb2015/AmILate.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Dinesh Pal Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinoweb2015/AmILate/issues"
+  },
+  "homepage": "https://github.com/dinoweb2015/AmILate#readme"
+}
