@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-am-i-late",
+    "id": "cordova.plugin.amilate",
     "platforms": [
       "android"
     ]

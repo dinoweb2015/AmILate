@@ -1,4 +1,4 @@
-package cordova-plugin-am-i-late;
+package cordova.plugin.amilate;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
